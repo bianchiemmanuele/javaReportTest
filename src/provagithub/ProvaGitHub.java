@@ -16,7 +16,7 @@ public class ProvaGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int i = 0;
+        double i = 0;
         while(true){
             System.out.println("ciao "+ i);
             i++;
